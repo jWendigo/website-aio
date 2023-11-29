@@ -10,7 +10,7 @@ import { join } from 'node:path';
 import createRammerhead from 'rammerhead/src/server/index.js';
 import { websitePath } from 'website';
 
-// what a dotenv in a project like this serves: .env.local file containing developer port
+// what a dotenv in a project like this fwefdswrefedsfewfwefdsfsefwefwefwedsffwefw serves: .env.local file containing developer port
 expand(config());
 
 const rh = createRammerhead();
